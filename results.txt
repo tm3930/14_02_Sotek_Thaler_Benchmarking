@@ -1,0 +1,5 @@
+Computer Name: IdeaPad-Simon
+Date of Test: 2026-06-26 16:28:11
+Bubble Sort Time: 4.809128 seconds
+Quick Sort Time: 0.014172 seconds
+
