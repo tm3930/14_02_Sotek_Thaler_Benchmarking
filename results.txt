@@ -3,3 +3,8 @@ Date of Test: 2026-06-26 16:28:11
 Bubble Sort Time: 4.809128 seconds
 Quick Sort Time: 0.014172 seconds
 
+Computer Name: PC-Thaler-Markus
+Date of Test: 2026-06-26 16:50:31
+Bubble Sort Time: 19.945181 seconds
+Quick Sort Time: 0.065201 seconds
+
